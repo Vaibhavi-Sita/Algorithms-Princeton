@@ -1,5 +1,5 @@
-# Assignments
-Coursera course: Algorithms
+# Algorithms Course 
+Coursera course: Algorithms 
 
 http://algs4.cs.princeton.edu/
 
