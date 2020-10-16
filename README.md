@@ -1,6 +1,6 @@
-# algs4
+# Assignments
 Coursera course: Algorithms
 
 http://algs4.cs.princeton.edu/
 
-Programming Assignments &amp; Job Interview Questions
+Programming Assignments &amp; Exercises
